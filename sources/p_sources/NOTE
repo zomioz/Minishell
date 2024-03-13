@@ -1,0 +1,3 @@
+split sur espace
+sublen -> return le nmbr de char a substr , en ne comptant pas les ' ', sauf si je suis entre des "
+substart en static -> se souvient de sa pos a chaque appel -> skip jusquau prochain start, donc soit ' ' hors des " ou alors '" ' sur dans des quotes
